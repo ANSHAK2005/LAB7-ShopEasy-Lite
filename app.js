@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
 
   if (req.url === "/") {
     res.end(JSON.stringify({
-      message: "Welcome to ShopEasy Lite",
+      message: "Welcome to ShopEasy Lite - Version 2",
       products
     }));
   } else {
