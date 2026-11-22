@@ -1,0 +1,9 @@
+{
+  "name": "shopeasy-lite",
+  "version": "1.0.0",
+  "description": "ShopEasy Lite Docker Lab 7",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
